@@ -10,6 +10,7 @@
 
 ### Windows
 1. Install git
+2. Install Heroku Toolbelt
 
 
 ### Mac

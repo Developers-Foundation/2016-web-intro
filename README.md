@@ -15,8 +15,9 @@
 4. Install Sublime (Sublime Text Build 3126 x64 Setup.exe)
 
 ### Mac
-1. Install Sublime (Sublime Text Build 3126.dmg)
-2. Install Heroku (heroku-toolbelt.pkg)
+1. [Download this template](https://github.com/Developers-Foundation/2016-web-intro)
+2. Install Sublime (Sublime Text Build 3126.dmg)
+3. Install Heroku (heroku-toolbelt.pkg)
 
 ##Building Website Instructions
 1. Open the Template Folder on Sublime Text
